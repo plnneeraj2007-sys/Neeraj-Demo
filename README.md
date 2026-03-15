@@ -1,4 +1,6 @@
 # Neeraj-Demo
 This is my first repository
-Author P L N NEERAJ
-BTECH FIRST YEAR
+<br>
+Author 
+<br>
+P L N NEERAJ BTECH FIRST YEAR
